@@ -27,7 +27,7 @@ template = "homepage.html"
 
 
 # Features
-
+A
 - [Light, dark, and auto themes](@/posts/configuration.md#theme-mode-theme)
 - [Projects page](@/projects/_index.md)
 - [Talks page](https://not-matthias.github.io/talks/)
