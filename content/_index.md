@@ -21,9 +21,10 @@ template = "homepage.html"
 </style>
 
 <div class="homepage-hero">
-    <h1 class="homepage-hero-title">Apollo</h1>
-    <p class="homepage-hero-subtitle">A modern and minimalistic blog theme powered by Zola.</p>
+    <h1 class="homepage-hero-title">Test</h1>
+    <p class="homepage-hero-subtitle">Something should happen on every commit</p>
 </div>
+
 
 # Features
 
